@@ -1,0 +1,33 @@
+.type{
+ padding-top: 85px;
+ display: flex;
+ align-items: center;
+ width: 1110px;
+ margin: 0 auto;
+ margin-bottom: 85px;
+}
+
+.type__img{
+ width: 450px;
+ height: 520px;
+ margin-right: 125px;
+}
+
+.type__taitl{
+ margin: 0;
+ font-family: Fraunces ;
+ font-weight: 900;
+ font-size: 40px;
+ line-height: 48px;
+ color:$--2c;
+ margin-bottom: 32px;
+}
+
+.type__text{
+ margin: 0;
+ width: 540px;
+ font-size: 16px;
+ line-height: 26px;
+ color:$--cccc-color;
+ ;
+}

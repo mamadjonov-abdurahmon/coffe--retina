@@ -1,0 +1,26 @@
+.hero{
+ padding: 134px 0px 0px 85px;
+ background-image: url("../images/aboutus.svg");
+ background-repeat: no-repeat;
+ background-position: calc(50%);
+ width: 1280px;
+ height: 450px;
+ border-radius: 10px;
+ margin-bottom: 85px;
+}
+
+.hero__taitl{
+ margin: 0;
+ font-weight: 900;
+ font-size: 40px;
+ line-height: 48px;
+ color:$--fff-color;
+ font-family: Fraunces ;
+ margin-bottom: 24px;
+}
+
+.hero__text{
+ margin: 0;
+ width: 445px;
+ color:$--fff-color;
+}

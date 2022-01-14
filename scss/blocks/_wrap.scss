@@ -1,0 +1,49 @@
+.wrap{
+ padding-top: 300px;
+ width: 1105px;
+ margin: 0 auto;
+ margin-bottom: 165px;
+}
+
+.wrap__taitl{
+ margin: 0;
+ font-weight: 900;
+ font-size: 24px;
+ line-height: 32px;
+ font-family: Fraunces ;
+ color: #83888F;
+ margin-bottom: 72px;
+}
+
+.wrap__list{
+ display: flex;
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+.wrap__item{
+ margin-right: 125px;
+ width: 285px;
+}
+
+.wrap__img{
+ width: 41px;
+ height: 49px;
+ margin-bottom: 45px;
+}
+
+.wrap__united{
+ margin: 0;
+ font-weight: 900;
+ font-size: 32px;
+ line-height: 36px;
+ color: $--cccc-color;
+ font-family: Fraunces ;
+ margin-bottom: 24px;
+}
+
+.wrap__text{
+ margin: 0;
+ width: 120px;
+}
